@@ -10,7 +10,7 @@ export default function Home() {
             <h1>
                 
 
-                Hello Wordl
+                Hello World
             </h1>
         </>
     )
